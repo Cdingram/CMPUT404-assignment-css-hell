@@ -1,0 +1,27 @@
+body { 
+	margin:5%; 
+	background:#F8ECC2; 
+	text-align:justify;
+	font-family: cursive;
+	color: #000000;
+
+	background-image: url("Images/paper.jpeg");
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+	font-size: 200%;
+}
+
+p {
+	text-indent: 3em;
+	text-align: center;
+	padding-left: 15em;
+	padding-right: 15em;
+}
+
+#pr::first-letter {
+	font-size: 400%;
+}
