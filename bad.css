@@ -1,0 +1,47 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.jumbotron {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: red;
+    color: yellow;
+}
+.navbar {
+    display: none !important;
+}
+.about { 
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: orange;
+}
+.history { 
+   font-family: "Comic Sans MS", cursive, sans-serif;
+   background-color: yellow;
+}
+.skill { 
+    background-color: green;
+    color: white;
+
+}
+.fact { 
+    background-color: blue;
+    color: white;
+    float: right;
+    text-align: left;
+
+    position:absolute;
+    right:0; top:250px; bottom: 0;
+    width: 178px;
+}
+
+.contact {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: purple;
+    color: white;
+    text-align: right;
+}
+h3{
+    color: #8B2304;
+}
+.hat {
+    padding-left: 10000;
+}
